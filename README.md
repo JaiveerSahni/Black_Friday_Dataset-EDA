@@ -32,7 +32,6 @@ The dataset includes the following features:
 - Occupation-wise purchase averages
 - City Category and Marital Status analysis
 
-> 📂 Visualizations are saved in the `images/` folder.
 
 ## 🧹 Data Cleaning
 
