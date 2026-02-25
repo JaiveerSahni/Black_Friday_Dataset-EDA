@@ -41,7 +41,7 @@ The dataset includes the following features:
 
 ## 🚀 How to Run
 
-Open the `EDA_Black_Friday_Cleaned.ipynb` notebook in Jupyter or Google Colab and run all cells to reproduce the analysis.
+Open the `EDA_Black_Friday.ipynb` notebook in Jupyter or Google Colab and run all cells to reproduce the analysis.
 
 ## 🛠️ Tools Used
 
